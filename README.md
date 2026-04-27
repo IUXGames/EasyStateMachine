@@ -161,7 +161,7 @@ In the inspector, set **Config → Debug Enabled = true** and **Log Level = DEBU
 
 The **official documentation** is available as an interactive website with full navigation, EN / ES language toggle, and quick search:
 
-**[EasyStateMachine Official Documentation](https://github.com/IUXGames/EasyStateMachine_WebSite)**
+**[EasyStateMachine Official Documentation](https://iuxgames.github.io/EasyStateMachine_WebSite/)**
 
 The docs cover every node, property, signal, method, and lifecycle hook in detail, along with practical examples for 2D platformers, enemy AI, pause menus, advanced usage, and more.
 
