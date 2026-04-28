@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #f04;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.1px;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-1" points="8 1.64 11.15 3.55 8 5.2 4.89 3.42 8 1.64"/>
+    <polyline class="cls-1" points="4.89 3.42 4.89 7 8 8.7 8 5.2"/>
+    <line class="cls-1" x1="11.11" y1="7" x2="8" y2="8.7"/>
+    <line class="cls-1" x1="11.15" y1="3.55" x2="11.11" y2="7"/>
+  </g>
+  <g>
+    <polygon class="cls-1" points="4.85 7 8 8.91 4.85 10.56 1.74 8.78 4.85 7"/>
+    <polyline class="cls-1" points="1.74 8.78 1.74 12.36 4.85 14.06 4.85 10.56"/>
+    <line class="cls-1" x1="7.96" y1="12.36" x2="4.85" y2="14.06"/>
+    <line class="cls-1" x1="8" y1="8.91" x2="7.96" y2="12.36"/>
+  </g>
+  <g>
+    <polygon class="cls-1" points="11.13 7.03 7.98 8.95 11.13 10.59 14.23 8.81 11.13 7.03"/>
+    <polyline class="cls-1" points="14.23 8.81 14.23 12.39 11.13 14.09 11.13 10.59"/>
+    <line class="cls-1" x1="8.02" y1="12.39" x2="11.13" y2="14.09"/>
+    <line class="cls-1" x1="7.98" y1="8.94" x2="8.02" y2="12.39"/>
+  </g>
+</svg>
